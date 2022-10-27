@@ -185,8 +185,8 @@
 
         /* Quem somos */
         #quem-somos{
-            height: 25px;
-            height: 50vh;
+            height: 250px;
+            height: 70vh;
             justify-content: center;
             min-height: 250px;
         }
